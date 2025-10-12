@@ -27,5 +27,8 @@
   },
   "peerDependencies": {
     "postcss": "^8.0.0"
-  }
+  },
+  "files": [
+    "postcss-layer-plugin.js"
+  ]
 }
