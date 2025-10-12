@@ -10,6 +10,10 @@
     "pretest": "npm run lint",
     "test": "NODE_OPTIONS=\"$NODE_OPTIONS --experimental-vm-modules\" jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alesmenzel/postcss-layer-plugin"
+  },
   "keywords": [
     "postcss",
     "plugin",
