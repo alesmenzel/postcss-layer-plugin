@@ -7,7 +7,7 @@ What are layers? - See https://developer.mozilla.org/en-US/docs/Web/CSS/@layer
 ## Installation
 
 ```sh
-npm install --save-dev postcss postcss-focus
+npm install --save-dev postcss @alesmenzel/postcss-layer-plugin
 ```
 
 ## Example
