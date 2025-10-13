@@ -1,6 +1,6 @@
 {
   "name": "@alesmenzel/postcss-layer-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCSS plugin that wraps the whole stylesheet in a specified @layer.",
   "type": "module",
   "main": "./postcss-layer-plugin.js",
